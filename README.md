@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Sohan
 #### Web Developer
-![Web Developer](https://media.istockphoto.com/id/1167600247/vector/back-end-development-web-banner-concept.jpg?s=612x612&w=0&k=20&c=LwfmAcEk92Nb5kWyAtry3gAMkZyvqpjIabQ8U0WnhMk=)
 
 I am Backend Web Developer and self employed hardworking person. I have more than 3 years of experience. Always like to Research and Solve the problem.. I specialize in CodeIgniter and have professional experience working with JavaScript and Bootstrap. I also have experience working with tailwind, jQuery, Ajax, Git and SQL. 
 
