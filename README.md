@@ -3,7 +3,7 @@
 
 I am Backend Web Developer and self employed hardworking person. I have more than 6 years of experience. Always like to Research and Solve the problem.. I specialize in CodeIgniter and have professional experience working with JavaScript and Bootstrap. I also have experience working with tailwind, jQuery, Ajax, Git and SQL. 
 
-Skills:  JS / HTML / CSS / PHP / Laravel / Codeigniter / JQuery / Ajax / SQL / MySql
+Skills:  JS / HTML / CSS / PHP / Laravel / Codeigniter / JQuery / Ajax / SQL / MySQL
 
 - 🔭 I’m currently working on Wake Up ICT Company 
 - 👯 I’m looking to collaborate on github 
